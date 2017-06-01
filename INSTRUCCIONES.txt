@@ -1,0 +1,10 @@
+INSTRUCCIONES DEL PROYECTO DE PROGRAMACION 2017-1
+
+MODO: Survival.
+OBJETIVO: Obtener la mayor cantidad de puntos posibles.
+OBSTACULOS: Carro enemigo#1 y carro enemigo#2
+
+“El juego tendrá modalidad survival y tendrá un puntaje que contara cuantos 
+puntos aumenta el jugador a medida que el juego avanza en función de tiempo. El
+jugador tendrá una sola vida, de modo que si su auto choca con alguno de los enemigos 
+este perderá automáticamente. El juego contara ademas con funciones como guardar y cargar partida que facilitaran la jugabilidad del programa y su interacción usuario maquina.”
